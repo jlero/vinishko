@@ -1,2 +1,2 @@
 # vinishko
-vinishko.js
+> vinishko.js
